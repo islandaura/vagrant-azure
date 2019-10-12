@@ -167,3 +167,4 @@ override.data_disks = [
 ## [Extended Documentation](./docs/)
 For more information on common scenarios and other features visit the [extended documentation](./docs/).
 
+# vagrant-azure
